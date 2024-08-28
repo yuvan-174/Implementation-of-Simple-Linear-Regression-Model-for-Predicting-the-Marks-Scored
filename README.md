@@ -14,7 +14,13 @@ To write a program to predict the marks scored by a student using the simple lin
 4. Evaluate and Visualize
 
 ## Program:
-```
+```py
+/*
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: YUVAN SUNDAR S
+RegisterNumber: 212223040250 
+*/
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -53,11 +59,7 @@ plt.title('Simple Linear Regression')
 plt.legend()
 plt.show()
 
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: YUVAN SUNDAR S
-RegisterNumber: 212223040250 
-*/
+
 ```
 
 ## Output:
